@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dyl1x
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Chama
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning humanoids
+- 💞️ I’m looking to collaborate on robotics
 - 📫 How to reach me: chamathme@gmail.com
 
 <!---
